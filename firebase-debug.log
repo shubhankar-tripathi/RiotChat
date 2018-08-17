@@ -1,0 +1,28 @@
+[debug] [2018-08-17T01:59:28.066Z] ----------------------------------------------------------------------
+[debug] [2018-08-17T01:59:28.069Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\shubh\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2018-08-17T01:59:28.069Z] CLI Version:   4.1.0
+[debug] [2018-08-17T01:59:28.069Z] Platform:      win32
+[debug] [2018-08-17T01:59:28.069Z] Node Version:  v8.11.3
+[debug] [2018-08-17T01:59:28.070Z] Time:          Thu Aug 16 2018 21:59:28 GMT-0400 (Eastern Daylight Time)
+[debug] [2018-08-17T01:59:28.070Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-08-17T01:59:28.092Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-08-17T01:59:28.094Z] > authorizing via signed-in user
+[debug] [2018-08-17T01:59:28.097Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/riotchat-6a7c8  
+ 
+[debug] [2018-08-17T01:59:28.582Z] <<< HTTP RESPONSE 200
+[debug] [2018-08-17T01:59:28.583Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/riotchat-6a7c8/tokens  
+ 
+[debug] [2018-08-17T01:59:29.023Z] <<< HTTP RESPONSE 200
+[debug] [2018-08-17T01:59:29.028Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/riotchat-6a7c8  
+ 
+[debug] [2018-08-17T01:59:29.269Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\My Projects'...
+[info] 
+[debug] [2018-08-17T01:59:29.280Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/713973113107/clients/_:getWebAppConfig  
+ 
+[debug] [2018-08-17T01:59:29.696Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] +  hosting: Local server: http://localhost:5000
+
